@@ -19,7 +19,7 @@ def listen():
             print("Changes detected, recompiling...")
             compile_templates()
         
-        time.sleep(3)
+        time.sleep(1)
         
         
 
